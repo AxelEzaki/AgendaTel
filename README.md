@@ -11,5 +11,5 @@ Agenda Telefonica feita no framework ASP.NET para Web.
 7 - Se cadastrar corretamente, poderá ir clicar no botão "Exibir seus Contatos".
 8 - Carregado a página, poderá ver as informações cadastrados e dois botões na linha a frente das informações cadastradas: "Editar" e "Excluir".
 9 - Ao clicar no botão "Editar", aparecerá duas caixas aonde estavam o telefone e o outro no endereço, ambas estarão com as informações postadas antes. Assim voce conseguirá alterar alguma informação do contato. Contudo, o nome não poderá ser editado ou atualizado.
-10 - Assim que terminar de editar, clique no botão "Atualizar" para salvar as informações atualizadas. Ou clique no botão "Cancelar" para cancelar as alterações. \n
+10 - Assim que terminar de editar, clique no botão "Atualizar" para salvar as informações atualizadas. Ou clique no botão "Cancelar" para cancelar as alterações.
 11 - Caso queira excluir algum contato, clique no botão "Excluir".
